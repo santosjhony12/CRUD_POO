@@ -1,6 +1,6 @@
 # <h1 align=center>CRUD COM JAVA</h1>
 
-<img src="[https://raw.githubusercontent.com/santosjhony12/CRUD_POO/images/JAVA%20CRUD%20-%20README.png](https://raw.githubusercontent.com/santosjhony12/CRUD_POO/images/image.png)">
+<img src="https://raw.githubusercontent.com/santosjhony12/CRUD_POO/images/image.png">
 
 ## Sobre 👨‍💻
 
